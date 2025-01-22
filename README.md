@@ -46,6 +46,8 @@ and then:
 
 RUN
 
+![Alt text](https://github.com/Wayne-AJP-Byrne/Tectronics-4051-Emulator-file-conversion/blob/main/SINEWAVE2.png "Sine Wave Example")
+
 and voila, we have loaded and run our program.
 
 A major shout out to Monty McGraw for his time.
