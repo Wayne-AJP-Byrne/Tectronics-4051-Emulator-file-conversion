@@ -26,7 +26,7 @@ SINEWAVE2.bas
 170 HOME  <br/>
 
 We can then run :
-                  python win2tec.py SINEWAVE2.bas
+                  python win2tek.py SINEWAVE2.bas
 
 This will give the following output:
 
