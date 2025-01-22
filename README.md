@@ -1,6 +1,8 @@
 # Tektronics-4051-Emulator-file-conversion
 With thanks to Monty McGraw for his time.
 
+P.S. The title of this repo is incorrect. It should be Tektronics and NOT Tectronics. The updated version is here : https://github.com/Wayne-AJP-Byrne/Tektronics-4051-Emulator-file-conversion. (again thank you Marty)
+
 pre-reqs : python 3 must be installed (and the emulator of course 😎) .
 
 A simple program to convert a text file to the Tektronics 4051 Emulator flash drive format
