@@ -22,7 +22,7 @@ print(f'File Size in Bytes is {file_stats.st_size}')
 file_noext, _ =os.path.splitext(param_1)
 
 #process file with new format
-print ('Converting to Tec format')
+print ('Converting to Tek format')
 with open(param_1, 'rb') as f:
 		content = f.read()
 		content = content.replace(windows_line_ending, tec_line_ending)
