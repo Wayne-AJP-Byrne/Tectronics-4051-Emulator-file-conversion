@@ -1,6 +1,6 @@
 # Simple Utility that takes a notepad file (with CRLF) and converts to CR
 # and then outputs a new file with a filename capatible with Tectronix 4051 emulator flash drive format name
-# Author : Wayne Byrne
+# Author : Wayne Byrne (wayne_ajp_byrne@hotmail.com)
 # Date : 21-Jan-2025
 
 
