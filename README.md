@@ -1,7 +1,7 @@
 # Tectronics-4051-Emulator-file-conversion
 With thanks to Monty McGraw for his time.
 
-pre-reqs : python 3 must be installed.
+pre-reqs : python 3 must be installed (and the emulator of course 😎) .
 
 A simple program to convert a text file to the Tectronics 4051 Emulator flash drive format
 
