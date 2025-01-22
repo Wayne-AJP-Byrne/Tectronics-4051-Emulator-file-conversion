@@ -5,7 +5,7 @@ pre-reqs : python 3 must be installed (and the emulator of course 😎) .
 
 A simple program to convert a text file to the Tektronics 4051 Emulator flash drive format
 
-A simple program for use with text files, specifacally source code e.g. BASIC programs written in e.g. notepad. It will convert the file and filename to be compatible with the flash drive format used by the very cool and groovy Tectronics 4051 emulator ( https://github.com/mmcgraw74/Tektronix-4051-Emulator ).
+A simple program for use with text files, specifacally source code e.g. BASIC programs written in e.g. notepad. It will convert the file and filename to be compatible with the flash drive format used by the very cool and groovy Tektronics 4051 emulator ( https://github.com/mmcgraw74/Tektronix-4051-Emulator ).
 
 Usage : python win2tec.py filename.bas
 
