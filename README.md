@@ -50,6 +50,6 @@ RUN
 
 and voila, we have loaded and run our program.
 
-A major shout out to Monty McGraw for his time.
+Again, a major shout out to Monty McGraw for his time and patience.
 
 
